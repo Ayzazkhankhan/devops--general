@@ -1,0 +1,5 @@
+✅ STEP 4 — Apply clean deployment
+kubectl apply -f master-deployment.yaml
+
+✨ STEP 5 — Confirm only ONE pod created
+kubectl get pods -o wide | grep master-app
