@@ -1,4 +1,4 @@
-
+```markdown
 ---
 
 # 📗 **CI-CD-Guide.md (Highly Professional & Beginner Friendly)**  
@@ -82,3 +82,5 @@ jobs:
       run: |
         kubectl set image deployment/master-app master-app=${{ secrets.DOCKERHUB_USERNAME }}/master-app:latest
         kubectl rollout restart deployment/master-app
+```
+```
