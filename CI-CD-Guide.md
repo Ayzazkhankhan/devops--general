@@ -16,7 +16,7 @@ It is written so even a **complete DevOps beginner** can understand it.
 
 ---
 
-# 🧩 1. How CI/CD Works
+# 🧩 ""1. How CI/CD Works
 
 Whenever you push code to GitHub:
 
@@ -27,7 +27,7 @@ Whenever you push code to GitHub:
 5️⃣ Restarts the pod  
 6️⃣ New version goes live **automatically**
 
-No SSH, no manual kubectl needed.
+No SSH, no manual kubectl needed.""
 
 ---
 
