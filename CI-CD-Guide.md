@@ -1,11 +1,4 @@
-```markdown
----
 
-# 📗 **CI-CD-Guide.md (Highly Professional & Beginner Friendly)**  
-
----
-
-```md
 # 🚀 Master App – GitHub Actions CI/CD Guide
 
 This guide explains **how your application automatically builds, pushes,  
